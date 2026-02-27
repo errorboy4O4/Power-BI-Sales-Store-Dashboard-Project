@@ -26,9 +26,9 @@ Add filters and slicers for dynamic exploration
 
 Perform sales forecasting
 
-Export dashboard as PDF (optional)
 
-📊 Insights You Might Include (Example)
+
+📊 Insights 
 
 
 
