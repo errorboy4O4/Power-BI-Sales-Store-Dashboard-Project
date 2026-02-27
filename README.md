@@ -30,7 +30,7 @@ Export dashboard as PDF (optional)
 
 📊 Insights You Might Include (Example)
 
-(These depend on your actual data; update after your analysis)
+
 
 Total sales trend over time
 
